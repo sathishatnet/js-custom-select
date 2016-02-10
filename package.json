@@ -1,0 +1,11 @@
+{
+  "name": "js-custom-select",
+  "version": "2.0.0",
+  "description": "Custom auto-complete select box for AngularJS and Bootstrap.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Caflisch <tomcaflisch@gmail.com>",
+  "license": "MIT"
+}
