@@ -1,4 +1,4 @@
-﻿(function (angular, undefined) {
+﻿(function (angular, m, undefined) {
 	'use strict';
 
 	// TODO: Move to polyfill?
@@ -402,4 +402,6 @@
 			}
 		};
 	});
-})(angular);
+    
+    m.exports = module;
+})(angular, module);
